@@ -14,6 +14,6 @@ Determine which API provides:
 4. Analyze differences to answer objectives.
 
 ## Stack
-APIs - Python (requests, json)
-Database - Python (sqlite3) / SQL
-Analysis - Python (numpy, pandas) / SQL
+* APIs - Python (requests, json)
+* Database - Python (sqlite3) / SQL
+* Analysis - Python (numpy, pandas) / SQL
