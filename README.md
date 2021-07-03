@@ -17,3 +17,6 @@ Determine which API provides:
 * APIs - Python (requests, json)
 * Database - Python (sqlite3) / SQL
 * Analysis - Python (numpy, pandas) / SQL
+
+## Presentation
+[Google Slides](https://docs.google.com/presentation/d/1mdxQMUvOSHrL9p4aaqh4OOjF_Vh0ld-wHzYZCjoVv_M/edit?usp=sharing)
